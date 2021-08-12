@@ -1,0 +1,794 @@
+sudo snap install--classic code
+sudo snap install --classic code
+snap help
+sudo snap install -- classic code
+sudo snap install --classic code
+cd
+cd testt
+ls
+cp file2 file4
+cp file1 file3
+cp file2 ../Desktop/file2
+cp file3 ../Desktop/file3desktop
+mv file3 ../Desktop/file3
+rm .s
+ls
+rm filemile
+ls
+mkdir folder1
+ls
+rm folder1
+rm -r folder1
+ls
+mkdir folder1
+ls
+touch folder1/file1 folder1/file21
+ls folder1
+cd folder1
+mkdir folder43
+ls
+cd folder1
+mkdir folder1
+cd folder1
+cd
+cd folder1
+cd testt
+cdfolder1
+cd folder1
+ls
+rm -r folder1
+ls
+rm -r folder43
+ls
+cd ..
+cd //
+cd ..\
+pwd
+cd testt
+cd ..
+cd
+cd `
+cd
+ccccd
+cd ..
+ldladladl
+cd testt
+ls
+touch test_file
+ls
+rm -r folder1
+ls
+rm file*
+ls
+touch file.txt test.txt
+ls
+rm*.txt
+rm* .txt
+ls
+rm *.txt
+ls
+rm *file
+ls
+touch file (2...6)
+cd ~
+mkdir python12
+ls
+mkdir ./python12/week{1...15}
+cd python12
+ls
+mkdir ./python12/week{1..15}
+ls
+cd ~
+mkdir ./python12/week{1..15}
+cd python12
+la
+ls
+rm -r week {1...15}
+rm -r week{1...15}
+ls
+cd ~
+cd testt
+sl
+ls
+mkdir folder1 folder2 folder3
+ls
+touch ./folder1/ file{1..3}.txt
+ls
+touch ./folder1/file{1..3}.txt
+ls
+ls folder1
+cd folder1
+ls
+cd ..
+ls
+rm *file
+rm file
+mv file1.txt ./folder1
+ls
+ls folder1
+cd folder1
+ls
+cd ..
+rm file1.txt
+ls
+rm file2.txt
+ls
+rm file3.txt
+ls
+cd folder1
+ls
+mv file1.txt ../folder2/
+ls
+cd ..
+ls
+cd folder2
+ls
+cd ../folder1/
+ls
+cp file2.txt ..
+cp file2.txt ../folder3/
+ls ../folder3/
+cd ..
+ls
+cd folder3
+ls
+mkdir ../folder1/test_folder/
+cd ..
+ls
+cd folder1
+ls
+rmdir folder2
+rmdir ../folder2
+cd ..
+ls
+rm -r folder3
+ls
+mkdir folder3
+cd folder1
+ls
+mkdir ../folder4/
+cd ..
+ls
+rmdir folder4
+ls
+cd foldre1
+cd folder1
+ls
+rm -r test_folder
+ls
+touch .file4
+ls
+ls .
+ls -a
+mkdir .invis
+ls
+ls -a
+rm .invis
+ls
+rm -r .invis
+ls
+ls -a
+cd ~
+cd ./desktop
+cd desktop
+ls
+cd ./Desktop
+ls
+mkdir makers
+ls
+code makers
+cd makers
+touch lesson1.py
+ls
+;s
+ls
+cd ./Desktop/makers
+ls
+python3 lesson1.py
+1
+python3 lesson1.py
+ls
+python3 lesson1.py
+1
+python3 lesson1.py
+cd ..
+ls
+cd makers
+ls
+touch test1.py
+ls
+python3 test1.py
+ls
+python3 test1.py
+python3 test1.py
+1
+python3 test1.py
+cd ..
+ls
+makers
+cd makers
+ls
+mkdir week1
+ls
+rm -r week1
+ls
+mkdir week{1..15}
+ls
+cd week1
+touch lesson3.py
+ls
+pwd
+pwd
+ls
+ls -a
+ls
+ls Desktop/
+clear
+ls Downloads
+cd downloads
+cd Downloads
+cd..
+cd ..
+.
+..
+pwd
+mkdir testt
+ls
+cd testt
+pwd
+cd ..
+cd testt
+cd ..
+mkdir testtt2 && cd testtt2
+cd
+mkdir ./Desktop/testt
+mkdir./Desktop/folder1
+1mkdir ./Desktop/folder1
+mkdir ./Desktop/folder1
+cd folder1
+cd
+cd testt
+touch file1
+ls
+nano
+nano file1
+ls
+nano file1
+cat file1
+touch
+touch filemile
+cat filemile
+touch file3
+cat file3
+cat >> file3
+cat file3
+cat > file4
+cat file4
+nano file4
+help
+help ls
+help -ls
+man ls
+whatis touch
+whatis ls
+ls
+cat >> file1
+ls
+cd ..
+cd ./Desktop/maker/week1
+cd ./Desktop./maker./week1
+cd Desktop
+pwd
+ls
+cd makers
+ls
+cd week1
+ls
+python3 lesson3.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson2.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson2.py/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson2.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson2.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson1_draft.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week2
+ls
+touch lesson2.py
+ls
+python3 lesson2.py
+python3 lesson1_draft.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+cd Desktop
+ls
+cd makers
+ls
+cd week2
+touch lesson3.py
+ls
+python3 lesson3_examples.py
+1
+python3 lesson3_examples.py
+1
+python3 lesson3_examples.py
+cd Desktop
+ls
+cd makers
+ls
+cd week2
+ls
+python3 lesson_examples.py
+python3 lesson3_examples.py
+1
+python3 lesson3_examples.py
+touch lesson4_uslovnye_opera.py
+ls
+python3 lesson3_examples.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+5
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+2000
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week2
+ls
+touch lesson5_cycles.py
+ls
+python3 lesson3_examples.py
+ды
+s
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week3
+ls
+touch lesson1_sets.py
+ls
+cd ..
+cd week1
+ls
+cat test1.py
+cd ..
+ls
+cd week2
+cd ..
+cd week3
+ls
+python3 lesson1_sets.py
+cd ..
+cd week1
+ls
+cd ..
+cd week2
+ls
+puthon3 lesson3_examples.py
+python3 lesson3_examples.py
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week3
+ls
+touch lesson2_range.py
+ls
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+/usr/bin/python3 "/home/hello/Desktop/list1 = ['Ann', 'Mike', 'Ethan', 'Tommy'.py"
+/usr/bin/python3 /home/hello/Desktop/makers/week2/lesson3_examples.py
+/usr/bin/python3 /home/hello/Desktop/EXAMPLES.py
+/usr/bin/python3 /home/hello/Desktop/makers/week3/lesson4_functions.py
+# qBittorrent Stable
+qBittorrent Stable
+1
+sudo apt-get update && sudo apt-get install qbittorrent
+qBittorrent unStable
+sudo apt install qbittorent
+/usr/bin/python3 /home/hello/Desktop/makers/week4/lesson2_functions.py
+sudo apt-get install git
+git --version
+git config -- global user.email 'talgaruu@gmail.com'
+git config --global user.email 'talgaruu@gmail.com'
+git config --global user.name 'abdtalgar'
+git config --list
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+mkdir test1
+ls
+cd test1
+git init
+ls
+ls -a
+git status
+touch test1.txt
+ls
+git status
+touch text2.txt
+ls
+git status
+git add test1.txt
+git status
+git remote add origin git@github.com:abdtalgar/test1.git
+git remote -v
+git status
+git commit
+git commit -m
+git log
+git push origin master
+git push
+git push origin master
+nano text1.txt
+git push origin master
+ls -a
+git status
+ls
+git add .
+nano test1.txt
+git add .
+ls
+git status
+ls
+git commit -m
+git commit -m 'second'
+git push origin master
+ls
+git log
+git log --one line
+git log --oneline
+git checkout a3e06a3
+ls
+cd ~
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+sudo apt install qbittorrent
+git branch
+ls
+cd test1
+git branch
+/usr/bin/python3 /home/hello/Desktop/makers/week4/lesson3.py
+/usr/bin/python3 /home/hello/Desktop/makers/week4/lesson4_q_and_a.py
+/usr/bin/python3
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week2
+cd //
+cd ..
+ls
+cd ~
+cd Desktop
+ls
+cd makers
+ls
+cd week4
+ls
+python3 lesson4_q_and_a.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week5
+ls
+cat test.txt
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesseon1_files.py
+ls
+cd Desktop
+ls
+cd makers
+cd week5
+ls
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesseon1_files.py
+test.txt
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesseon1_files.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week5
+ls
+python3 test.txt
+ls
+python3 lesseon1_files.py
+1
+python3 lesseon1_files.py
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesseon1_files.py
+ls
+cd Desktop
+cd makers
+cd week5
+ls
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesseon1_files.py
+/usr/bin/python3 /home/hello/Desktop/makers/week5/lesson2_json.py
+/usr/bin/python3 /home/hello/Desktop/makers/week5/homework2.py
+cd Desktop
+cd makers
+cd week5
+ls
+touch product.json
+ls
+ls
+cd Desktop
+ls
+cd makers
+cd week5
+ls
+touch homework2.py
+code homework2.py
+touch task3.txt
+ls
+cd .
+cd ..
+cd week5
+ls
+touch lesson3_HTML.py
+cd ..
+code week5
+mkdir HTML_CSS
+code HTML-CSS
+cd HTML-CSS
+ls
+cd HTML-CSS
+/usr/bin/python3
+cd
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week5
+ls
+cd ..
+ls
+cd ..
+ls
+code scrapy_project
+cd scrapy_project
+pyhton3 -m venv env
+pyton3 -m venv env
+python3 -m venv env
+sudo apt-get install python3-venv
+python3 -m venv env
+source env/bin/activate
+pip install requests
+pip install lxml
+pip install beautifulsoup4
+pip freeze
+source ./env/bin/activate
+cd ..
+ls
+cd makers
+cd week5
+ls
+code homework2
+/usr/bin/python3 /home/hello/Desktop/scrapy_project/main.py
+ls
+source ./env/bin/activate
+/usr/bin/python3 /home/hello/Desktop/scrapy_project/main.py
+/home/hello/Desktop/scrapy_project/env/bin/python /home/hello/Desktop/scrapy_project/main.py
+/usr/bin/python3 /home/hello/Desktop/makers/week5/homework2/main.py
+python3 -m venv env
+ls
+cd env
+ls
+cd ..
+/home/hello/Desktop/makers/week5/homework2/env/bin/python /home/hello/Desktop/makers/week5/homework2/main.py
+ls
+/home/hello/Desktop/makers/week5/homework2/env/bin/python /home/hello/Desktop/makers/week5/homework2/main.py
+source /home/hello/Desktop/makers/week5/homework2/env/bin/activate
+/home/hello/Desktop/makers/week5/homework2/env/bin/python /home/hello/Desktop/makers/week5/homework2/main.py
+python 12 -m env
+python3 -m venv env
+python 12 -m env
+python3 -m venv env
+ls
+source /home/hello/Desktop/scrapy_project/env/bin/activate
+/home/hello/Desktop/scrapy_project/env/bin/python /home/hello/Desktop/scrapy_project/main.py
+/home/hello/Desktop/scrapy_project/env/bin/python "/home/hello/Downloads/Telegram Desktop/main.py"
+source /home/hello/Desktop/scrapy_project/env/bin/activate
+/home/hello/Desktop/scrapy_project/env/bin/python /home/hello/Desktop/scrapy_project/hacaton1.py
+/usr/bin/python3 /home/hello/Desktop/hacaton_week6/hacaton.py
+/home/hello/Desktop/hacaton_week6/env/bin/python /home/hello/Desktop/hacaton_week6/hacaton.py
+/usr/bin/python3 /home/hello/Desktop/hacaton1/hacaton1.py
+/home/hello/Desktop/hacaton1/env/bin/python /home/hello/Desktop/hacaton1/hacaton1.py
+python3 -m venv env
+source env/bin/activate/home/hello/Desktop/hacaton1/env/bin/python /home/hello/Desktop/hacaton1/hacaton1.py
+source env/bin/activate
+/home/hello/Desktop/hacaton1/env/bin/python /home/hello/Desktop/hacaton1/hacaton1.py
+ls
+cd Desktop
+ls
+code scrapy_project
+ls
+cd hacaton_week6
+python3 -m venv env
+cd ..
+code hacaton_week6
+code scrapy_project
+cd ~
+pip3 install bs4
+ls
+source /home/hello/Desktop/hacaton1/env/bin/activate
+/home/hello/Desktop/hacaton1/env/bin/python /home/hello/Desktop/makers/week6/lesson2.py
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson2.py
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson3.py
+clear
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson3.py
+clear
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson3.py
+clear
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson3.py
+/usr/bin/python3
+ls
+cd Desktop
+cd makers
+cd week5
+ls
+cd ..
+cd week6
+ls
+ls
+cd Desktop
+ls 
+cd makers
+ls
+cd week6
+ls
+touch lesson5.py
+ls
+code lesson5.py
+/usr/bin/python3 /home/hello/Desktop/makers/week6/lesson5.py
+/usr/bin/python3 /home/hello/Desktop/makers/week7/lesson1.py
+/usr/bin/python3
+/usr/bin/python3 /home/hello/Desktop/makers/week7/lesson1.py
+/usr/bin/python3
+/usr/bin/python3 /home/hello/Desktop/makers/week7/lesson2.py
+/usr/bin/python3
+/usr/bin/python3 /home/hello/Desktop/makers/week7/homework1.py
+/usr/bin/python3
+/usr/bin/python3 /home/hello/Desktop/makers/week8/lesson1.py
+ls
+cd Desktop
+ls
+cd makers
+ls
+cd week8
+ls
+cd lesson1_database.py
+code lesson1_database.py
+sudo apt-get update
+sudo snap install pycharm-community --classic
+sudo apt-get upgrade
+psql;
+touch requirements.txt
+pip install -r requirements.txt
+/home/hello/PycharmProjects/pythonProject/venv/bin/python -m pip install --upgrade pip
+pip install -r requirements.txt
+python manage.py startapp main
+ls
+cd myproject
+python manage.py startapp main
+python manage.py startapp order
+python manage.py startapp payment
+python manage.py manage.py runserver 800
+python manage.py runserver 800
+python manage.py runserver 8000
+python manage.py migrate
+python manage.py runserver 8888
+python manage.py migrate
+psql
+sudo apt-get update
+sudo apt install snapd
+sudo snap install postman
+mkdir my_test_repo
+cd my_test_repo
+git init
+ls -a
+mkdir test1
+mkdir test2
+ls
+ls -a
+cd test1
+touch modes.py views.py
+ls
+touch test2/models.py
+cd ..
+touch test2/models.py test2/views.py
+ls test2
+git status
+git add .
+git status
+git reset
+git status
+git add test1  test2/models
+git add test1  test2/models.py
+git status
+git reset test2/models.py
+git status
+git commit -m 'Add project'
+git remote add origin git@github.com:abdtalgar/my_test_repo.git
+git status
+git remote -v
+git push origin master
+cd test1
+mv modes.py models.py
+ls
+git status
+git add models.py
+git push origin master
+cd ..
+nano test2/models.py
+git diff
+git diff test2/models.py
+git add test2
+git status
+git commit -m 'Add test2'
+git log
+git log --oneline
+git push origin master
+nano test1/models.py
+git status
+git diff
+git diff test1/models.py
+git add .
+git commit -m 'Add User class'
+git sstatus
+git status
+git push origin master
+git status
+git log
+git pull origin master
+cd ..
+rm -rf my_test_repo/
+ls
+git clone 4git@github.com:abdtalgar/my_test_repo.git
+git clone git@github.com:abdtalgar/my_test_repo.git
+ls
+cd my_test_repo
+git branch
+ls
+git branch add_view
+git branch
+git checkout add_view
+git branch
+git log --oneline
+ls
+git status
+nano test1/models.py
+git status
+git add .
+git commit -m 'Fix User class'
+git push origin add_view
+git checkout master
+git branch
+git branch -D add_view
+git checkout -b add_admin
+git branch
+touch test1/admin.py
+git status
+git pull origin master
+git add .
+git commit -m 'Add test1 admin'
+git push origin add_admin
+git checkout master 
+git pull
+git checkout -b fix_test1_models
+nano test1/models.py
+git pull origin master
+git stash
+git status
+git pull origin master
+git stash apply
+nano test1/models.py
+git status
+history -w ~history.txt
